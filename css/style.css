@@ -1,0 +1,27 @@
+body{
+    font: 20px Arial, san-seriff;
+}
+.navbar{
+    background-color: green;
+    padding: 15px;
+}
+.margin{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: grey;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.img{
+    height: 10%;
+    width: 10%;
+}
+.desc{
+    font-size: 20px;
+    padding: 15px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
